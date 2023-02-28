@@ -1,0 +1,3 @@
+/Users/haibin/CLionProjects/Typing_SFML/cmake-build-debug/CMakeFiles/Typing_SFML.dir
+/Users/haibin/CLionProjects/Typing_SFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haibin/CLionProjects/Typing_SFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
